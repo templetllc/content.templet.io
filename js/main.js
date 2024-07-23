@@ -401,7 +401,6 @@ $(function(){
 		var _phase = $('body').data('phase');
 		var _child_task = $('body').data('childtask');
 
-		
 		var dataJson =  {
 		    task_id		: _task_id.toString(),
 		    request_id	: $('body').data('requestid'),

@@ -7,7 +7,8 @@
         <div class="container">
             <div class="row align-items-center justify-content-center py-5">
                 <div class="col-md-12 text-left">
-                    <h1 class="display-6 mt-1 mb-0">Hi <span class="name"><?=$asigneeName?></span> Happy to hear from you again!</h1>
+                    <!-- <h1 class="display-6 mt-1 mb-0">Hi <span class="name"><?=$asigneeName?></span> Happy to hear from you again!</h1> -->
+                    <h1 class="display-6 mt-1 mb-0">Hi, happy to hear from you again!</h1>
                     <p class="fs-5 pt-1 text-white mb-0">Ready to share a new project file?</p>
                 </div>
             </div>
